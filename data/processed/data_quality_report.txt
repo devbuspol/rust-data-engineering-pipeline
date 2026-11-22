@@ -1,0 +1,17 @@
+RUST DATA QUALITY REPORT
+========================
+
+CUSTOMERS
+Total: 7
+Accepted: 5
+Rejected: 2
+
+PRODUCTS
+Total: 7
+Accepted: 5
+Rejected: 2
+
+ORDERS
+Total: 10
+Accepted: 6
+Rejected: 4

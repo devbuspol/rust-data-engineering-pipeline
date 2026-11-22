@@ -4,3 +4,5 @@ product_id,product_name,category,price
 103,Keyboard,Accessories,150.00
 104,Monitor,Electronics,1200.00
 105,Headphones,Audio,250.00
+106,Tablet,Electronics,-100.00
+107,Camera,Electronics,0.00

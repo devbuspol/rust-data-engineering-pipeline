@@ -4,3 +4,5 @@ customer_id,first_name,last_name,email,country
 3,Peter,Brown,peter@gmail.com,UK
 4,Michael,Wilson,michael@gmail.com,USA
 5,Sarah,Johnson,sarah@gmail.com,Canada
+6,David,Green,,USA
+2,Mark,White,mark@gmail.com,UK
